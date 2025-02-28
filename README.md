@@ -1,3 +1,3 @@
 ## Summary
 
-This application uses redux to manage state across a counter React app.
+This application uses Redux to manage state across a counter React app.
